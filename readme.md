@@ -1,4 +1,4 @@
-<h1 align="center"> Projeto 01 </h1>
+<h1 align="center"> Projeto Página Móveis Customizados </h1>
 
 <p align="center">
 
