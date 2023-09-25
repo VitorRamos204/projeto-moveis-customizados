@@ -17,7 +17,7 @@
 
 <br>
 
-Veja o projeto funcionando em: https://vitorramos204.github.io/projeto01-moveis-customizados/
+Veja o projeto funcionando em: https://vitorramos204.github.io/projeto-moveis-customizados/
 
 ## 🚀 Tecnologias
 
